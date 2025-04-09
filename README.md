@@ -10,4 +10,5 @@ Para lograr la ejecución del código, este debe ser abierto en un environment d
 >pip install scikit-learn
 
 
-Si no se tiene el environmet de Jupyter también se puede ejecutar este notebook en Google Collab.
+Si no se tiene el environment de Jupyter también se puede ejecutar este notebook en Google Collab.
+Se puede hacer una visualización aquí mismo en github de lo hecho en el notebook.
